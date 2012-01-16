@@ -1,0 +1,5 @@
+*.elc
+*.[oa]
+*[~#]
+auto-save-list/
+el-get/
