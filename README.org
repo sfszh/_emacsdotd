@@ -1,0 +1,1 @@
+This personal init.el and other *.el files maintained by myself
