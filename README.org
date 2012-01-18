@@ -1,1 +1,17 @@
-This personal init.el and other *.el files maintained by myself
+* Overview
+  This personal init.el and other *.el files maintained by myself
+  Till now, I divided init.el into 3 parts: 
+  - init.el :: does the main init works
+  - coding-conf.el :: configure all my coding modes
+  - emlib.el :: separates the function from configure file make them configure file easier to read and less mistakes made 
+
+* ATTETION
+  - this is NOT a bundle, and is not maintained as ready to be used out of box
+
+* FIXME:
+  - I use it seems autopair remap the RET key which makes auto-complete( type RET and make the completion ) in-operate. Make a universial RET dwim function
+  - ibus-el is NOT maintained by el-get(and wasn't included in the repository), since a building process error
+
+* TODO config:
+  CEDET
+  orgmode

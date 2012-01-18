@@ -1,5 +1,7 @@
 *.elc
 *.[oa]
 *[~#]
+*.dat
 auto-save-list/
 el-get/
+ibus-el/
